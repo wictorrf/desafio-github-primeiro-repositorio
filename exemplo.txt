@@ -1,0 +1,2 @@
+Apoós clonar o repositório na minha máquina, eu criei
+esse arquivo txt e em seguida fiz o push para subir as atualizações
